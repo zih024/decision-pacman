@@ -1,3 +1,8 @@
+> **This is a fork of [grapeot/decision-pacman](https://github.com/grapeot/decision-pacman).**
+> The game engine, data generation, and evaluation tools are by the original author.
+> My work: `pt/` (a LoRA trainer written from scratch and validated against the original), `repro/` (reproduction log and statistical analysis on a MacBook Air), and the extension experiments that follow.
+> Results summary: [repro/README.md](repro/README.md).
+
 # Decision Pac-Man
 
 A model steers a Pac-Man-style game in the browser in real time at 30 ticks per second, choosing among the legal moves at each junction. The repository compares off-the-shelf models (the decision models Jev, Tev1, and GPT-6 Luna through OpenAI's Decisions API, and plain chat models answering in constrained JSON) with a 0.8B model distilled from a slow general LLM teacher. It contains the browser game, a headless runner for seeded games, data generation and fine-tuning scripts, evaluation benchmarks, and an iPhone app. The distilled model is [on Hugging Face](https://huggingface.co/grapeot/decision-pacman-0.8b-GGUF).
