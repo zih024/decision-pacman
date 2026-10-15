@@ -1,0 +1,16 @@
+
+> decision-pacman@0.1.0 headless
+> tsx scripts/run_headless.ts --policy greedy --clock lockstep --games 10 --seed 100 --max-seconds 300 --out runs/det_greedy_a
+
+seed 100: score 6670, pellets 231/244, ghosts 8, deaths 3, level 1, 67s, 581 decisions (0 stale, 0 failed), p50 0 ms
+seed 101: score 6310, pellets 403/244, ghosts 8, deaths 3, level 2, 101s, 1225 decisions (0 stale, 0 failed), p50 0 ms
+seed 102: score 4160, pellets 240/244, ghosts 6, deaths 3, level 1, 66s, 656 decisions (0 stale, 0 failed), p50 0 ms
+seed 103: score 7230, pellets 399/244, ghosts 9, deaths 3, level 2, 104s, 1219 decisions (0 stale, 0 failed), p50 0 ms
+seed 104: score 7060, pellets 418/244, ghosts 8, deaths 3, level 2, 117s, 1399 decisions (0 stale, 0 failed), p50 0 ms
+seed 105: score 4510, pellets 295/244, ghosts 5, deaths 3, level 2, 77s, 850 decisions (0 stale, 0 failed), p50 0 ms
+seed 106: score 5410, pellets 397/244, ghosts 5, deaths 3, level 2, 95s, 1164 decisions (0 stale, 0 failed), p50 0 ms
+seed 107: score 8110, pellets 539/244, ghosts 9, deaths 3, level 3, 144s, 1821 decisions (0 stale, 0 failed), p50 0 ms
+seed 108: score 3370, pellets 241/244, ghosts 4, deaths 3, level 1, 62s, 543 decisions (0 stale, 0 failed), p50 0 ms
+seed 109: score 6220, pellets 378/244, ghosts 8, deaths 3, level 2, 115s, 1446 decisions (0 stale, 0 failed), p50 0 ms
+{"policy":"greedy","encoder":"features","clock":"lockstep","speed":1,"games":10,"seed0":100,"meanScore":5905,"meanPellets":354.1,"meanSeconds":95,"meanLatencyP50":0,"staleRate":0}
+wrote runs/det_greedy_a/2026-10-15T08-18-06-729Z_greedy_features_lockstep_p97408

@@ -1,0 +1,16 @@
+
+> decision-pacman@0.1.0 headless
+> tsx scripts/run_headless.ts --policy tev1:0.8b --clock lockstep --games 10 --seed 100 --max-seconds 300 --out runs/det_tev1_b
+
+seed 100: score 10, pellets 1/244, ghosts 0, deaths 3, level 1, 35s, 1048 decisions (0 stale, 0 failed), p50 8 ms
+seed 101: score 10, pellets 1/244, ghosts 0, deaths 3, level 1, 35s, 1048 decisions (0 stale, 0 failed), p50 8 ms
+seed 102: score 10, pellets 1/244, ghosts 0, deaths 3, level 1, 35s, 1048 decisions (0 stale, 0 failed), p50 8 ms
+seed 103: score 10, pellets 1/244, ghosts 0, deaths 3, level 1, 35s, 1048 decisions (0 stale, 0 failed), p50 8 ms
+seed 104: score 10, pellets 1/244, ghosts 0, deaths 3, level 1, 35s, 1048 decisions (0 stale, 0 failed), p50 8 ms
+seed 105: score 10, pellets 1/244, ghosts 0, deaths 3, level 1, 35s, 1048 decisions (0 stale, 0 failed), p50 8 ms
+seed 106: score 10, pellets 1/244, ghosts 0, deaths 3, level 1, 35s, 1048 decisions (0 stale, 0 failed), p50 8 ms
+seed 107: score 10, pellets 1/244, ghosts 0, deaths 3, level 1, 35s, 1048 decisions (0 stale, 0 failed), p50 8 ms
+seed 108: score 10, pellets 1/244, ghosts 0, deaths 3, level 1, 35s, 1048 decisions (0 stale, 0 failed), p50 8 ms
+seed 109: score 10, pellets 1/244, ghosts 0, deaths 3, level 1, 35s, 1048 decisions (0 stale, 0 failed), p50 8 ms
+{"policy":"tev1:0.8b","encoder":"features","clock":"lockstep","speed":1,"games":10,"seed0":100,"meanScore":10,"meanPellets":1,"meanSeconds":35,"meanLatencyP50":8,"staleRate":0}
+wrote runs/det_tev1_b/2026-10-15T08-21-15-690Z_tev1_0.8b_features_lockstep_p97513
