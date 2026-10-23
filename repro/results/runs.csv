@@ -1,1 +1,8 @@
 run_id,date,commit,machine,ollama_ver,policy,clock,seed_start,games,max_seconds,mean_pellets,per_game_pellets,p50_ms,stale_rate,load_avg,notes
+2026-10-15T08-13-22-951Z_random_features_realtime_p97239,2026-10-15,258cce5,"Mac14,2",0.40.3,random,realtime,100,10,300,27.6,27;37;35;31;14;30;18;28;29;27,0,0,,
+2026-10-15T08-15-03-650Z_random_features_realtime_p97297,2026-10-15,258cce5,"Mac14,2",0.40.3,random,realtime,100,10,300,27.6,27;37;35;31;14;30;18;28;29;27,0,0,,
+2026-10-15T08-13-28-253Z_greedy_features_realtime_p97260,2026-10-15,258cce5,"Mac14,2",0.40.3,greedy,realtime,100,10,300,200.7,211;141;168;136;173;312;213;134;280;239,0,0,,
+2026-10-15T08-18-06-729Z_greedy_features_lockstep_p97408,2026-10-15,258cce5,"Mac14,2",0.40.3,greedy,lockstep,100,10,300,354.1,231;403;240;399;418;295;397;539;241;378,0,0,,
+2026-10-15T08-18-12-286Z_greedy_features_lockstep_p97428,2026-10-15,258cce5,"Mac14,2",0.40.3,greedy,lockstep,100,10,300,354.1,231;403;240;399;418;295;397;539;241;378,0,0,,
+2026-10-15T08-18-17-793Z_tev1_0.8b_features_lockstep_p97451,2026-10-15,258cce5,"Mac14,2",0.40.3,tev1:0.8b,lockstep,100,10,300,1,1;1;1;1;1;1;1;1;1;1,8,0,1.76,"oscillates on back between 12,23 and 15,23; all seeds identical; see notes/1a.md"
+2026-10-15T08-21-15-690Z_tev1_0.8b_features_lockstep_p97513,2026-10-15,258cce5,"Mac14,2",0.40.3,tev1:0.8b,lockstep,100,10,300,1,1;1;1;1;1;1;1;1;1;1,8,0,1.76,"oscillates on back between 12,23 and 15,23; all seeds identical; see notes/1a.md"
