@@ -1,0 +1,2 @@
+1 output token(s): {'n': 60, 'wall_p50': 2992.7, 'prefill_p50': 2972.7, 'prompt_tokens_p50': 400.5, 'prefill_ms_per_token': 7.465, 'decode_p50': 0.0, 'decode_tokens_p50': 1.0, 'ms_per_decode_step': None}
+7 output token(s): {'n': 60, 'wall_p50': 3378.9, 'prefill_p50': 2810.6, 'prompt_tokens_p50': 399.5, 'prefill_ms_per_token': 6.867, 'decode_p50': 540.2, 'decode_tokens_p50': 7.0, 'ms_per_decode_step': 90.04}
