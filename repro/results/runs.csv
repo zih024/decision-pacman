@@ -6,3 +6,9 @@ run_id,date,commit,machine,ollama_ver,policy,clock,seed_start,games,max_seconds,
 2026-10-15T08-18-12-286Z_greedy_features_lockstep_p97428,2026-10-15,258cce5,"Mac14,2",0.40.3,greedy,lockstep,100,10,300,354.1,231;403;240;399;418;295;397;539;241;378,0,0,,
 2026-10-15T08-18-17-793Z_tev1_0.8b_features_lockstep_p97451,2026-10-15,258cce5,"Mac14,2",0.40.3,tev1:0.8b,lockstep,100,10,300,1,1;1;1;1;1;1;1;1;1;1,8,0,1.76,"oscillates on back between 12,23 and 15,23; all seeds identical; see notes/1a.md"
 2026-10-15T08-21-15-690Z_tev1_0.8b_features_lockstep_p97513,2026-10-15,258cce5,"Mac14,2",0.40.3,tev1:0.8b,lockstep,100,10,300,1,1;1;1;1;1;1;1;1;1;1,8,0,1.76,"oscillates on back between 12,23 and 15,23; all seeds identical; see notes/1a.md"
+2026-10-28T04-38-51-991Z_tev1_0.8b_features_realtime_p56026,2026-10-28,f651141,"Mac14,2",0.40.3,tev1:0.8b,realtime,100,10,300,36.2,35;36;53;38;46;50;21;30;24;29,41,0.082,,
+2026-10-28T04-43-19-273Z_tev1_4b_features_realtime_p56210,2026-10-28,f651141,"Mac14,2",0.40.3,tev1:4b,realtime,100,10,300,65.1,36;108;59;75;87;43;50;58;47;88,2657,0.487,,
+2026-10-28T04-49-21-878Z_llm_phi4-mini_features_realtime_p56314,2026-10-28,f651141,"Mac14,2",0.40.3,llm:phi4-mini,realtime,100,10,300,29.3,29;32;29;29;29;29;29;29;29;29,2039,0.779,,
+2026-10-28T04-54-12-090Z_jev_features_realtime_p56793,2026-10-28,f651141,"Mac14,2",0.40.3,jev,realtime,100,10,300,180.2,226;145;124;172;237;129;162;213;186;208,83,0.028,,
+2026-10-28T05-05-40-626Z_tev1_4b_features_lockstep_p56976,2026-10-28,f651141,"Mac14,2",0.40.3,tev1:4b,lockstep,100,10,300,217.1,212;225;228;237;218;218;217;188;236;192,1288,0,,
+2026-10-28T07-36-47-308Z_llm_phi4-mini_features_lockstep_p60469,2026-10-28,f651141,"Mac14,2",0.40.3,llm:phi4-mini,lockstep,100,3,300,251.3,214;236;304,1767,0,,
