@@ -1,0 +1,1 @@
+{"model": "pacman-0.8b-qwen", "data": "data/v1/val", "target": "values", "n": 1000, "acc": 0.544, "acc_decisive": 0.5436, "n_decisive": 493, "ce": 1.1225, "latency_p50_ms": 540, "latency_p90_ms": 583}
