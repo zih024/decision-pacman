@@ -1,0 +1,1 @@
+{"model": "tev1:0.8b", "data": "data/v1/val", "target": "values", "n": 1000, "acc": 0.23, "acc_decisive": 0.2921, "n_decisive": 493, "ce": 1.6398, "latency_p50_ms": 390, "latency_p90_ms": 450}
