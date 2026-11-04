@@ -1,0 +1,1 @@
+{"model": "pacman-v1-mlx", "data": "data/v1/val", "target": "values", "n": 1000, "acc": 0.527, "acc_decisive": 0.5375, "n_decisive": 493, "ce": 1.0881, "latency_p50_ms": 541, "latency_p90_ms": 586}
